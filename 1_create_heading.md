@@ -4,13 +4,8 @@ DIVE INTO CODE worksample
 
 
 
-1. ‰‚ß‚É
-
-@2. Rails‚Æ‚Í
-
-@2. Rails‚Ìl‚¦•û
- 
-@@3. DRYiDonft Repeat YourselfF“¯‚¶‚±‚Æ‚ÍŒJ‚è•Ô‚³‚È‚¢j
- @
-
-@@3. RESTiRepresentational State TransferFƒCƒ“ƒ^[ƒlƒbƒgã‚Å‚¢‚ë‚¢‚ë‚Èî•ñ‚â‹@”\‚ğŒ‹‚Ñ‚Â‚¯‚é•û–@A‚ ‚é‚¢‚Íl‚¦•ûj
+1. åˆã‚ã«
+ã€€1. Railsã¨ã¯
+ã€€1. Railsã®è€ƒãˆæ–¹
+ã€€ã€€1. DRYï¼ˆDonâ€™t Repeat Yourselfï¼šåŒã˜ã“ã¨ã¯ç¹°ã‚Šè¿”ã•ãªã„ï¼‰
+ã€€ã€€1. RESTï¼ˆRepresentational State Transferï¼šã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆä¸Šã§ã„ã‚ã„ã‚ãªæƒ…å ±ã‚„æ©Ÿèƒ½ã‚’çµã³ã¤ã‘ã‚‹æ–¹æ³•ã€ã‚ã‚‹ã„ã¯è€ƒãˆæ–¹ï¼‰
