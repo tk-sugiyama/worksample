@@ -13,6 +13,7 @@ DIVE INTO CODE worksample
 クラスメソッドを定義します。　　
   
 例  
+	
 	class Dive
 	  attr_accessor :name
 
@@ -20,8 +21,6 @@ DIVE INTO CODE worksample
 	#instance1 を参照します。
 		self　　
 	  end
-
-
 	  #クラスメソッド
 	  def self.code
 	    #この場合のselfの扱いは、Diveクラス
