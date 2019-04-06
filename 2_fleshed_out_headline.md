@@ -8,9 +8,9 @@ DIVE INTO CODE worksample
 –{ƒeƒLƒXƒg‚Í‚±‚ê‚©‚çŠw‚ÔARails‚ÌŠT—v‚ðƒCƒ[ƒW‚·‚é‚à‚Ì‚Å‚·B
 
 ## Rails‚Æ‚Í
-Ruby on RailsiRORj‚Æ‚à‚¢‚í‚ê‚éAWebƒAƒvƒŠ‚ðŠÈ’P‚Éì‚éˆ×‚Ì•Ö—˜‚Ètool‚ðW‚ß‚½ƒtƒŒ[ƒ€ƒ[ƒN‚Å‚·B
-Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚·
-ŒöŽ®‚Èƒ[ƒNƒtƒŒ[ƒ€ƒpƒbƒP[ƒW‚ÍRuby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌRubyGems‚É‚æ‚è”z•z‚³‚ê‚Ä‚¢‚Ü‚·B
+Ruby on RailsiRORj‚Æ‚à‚¢‚í‚ê‚éAWebƒAƒvƒŠ‚ðŠÈ’P‚Éì‚éˆ×‚Ì•Ö—˜‚Ètool‚ðW‚ß‚½ƒtƒŒ[ƒ€ƒ[ƒN‚Å‚·B  
+Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚·B  
+ŒöŽ®‚Èƒ[ƒNƒtƒŒ[ƒ€ƒpƒbƒP[ƒW‚ÍRuby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌRubyGems‚É‚æ‚è”z•z‚³‚ê‚Ä‚¢‚Ü‚·B  
 @RubyGemsFhttps://github.com/rubygems/rubygems
 
 ## Rails‚Ìl‚¦•û
@@ -20,8 +20,8 @@ Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚
 —lX‚ÈŒÂŠ‚É•¡”‹Lq‚¹‚¸A1‚©Š‚É‹Lq‚·‚é‚±‚Æ‚ÅA•ÏX‚ª¶‚¶‚½Û‚Ì•ÛŽç«‚ð‚³‚‚ß‚Ü‚·B
  
 ### CoCiConvention over ConfigurationFÝ’è‚æ‚è‹K–ñj
-]—ˆ‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Ì‚æ‚¤‚ÉÝ’è‚ð‘å—Ê‚É‹Lq‚¹‚¸A‹K–ñ‚É‚Ì‚Á‚Æ‚Á‚ÄƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ðs‚¤B 
-‚»‚¤‚·‚éŽ–‚ÅA—]Œv‚ÈƒvƒƒOƒ‰ƒ~ƒ“ƒO‚âÝ’è‚ðÈ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-‹K–ñ‚É‚Ì‚Á‚Æ‚é‚±‚Æ‚ÅAƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO“™‚ðRails‚Å‚ÍŽ©“®“I‚És‚¢‚Ü‚·B
-‚»‚Ìˆ×AŠJ”­ŽÒ‚ÍƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚ðŠÖ˜A•t‚¯‚éÝ’è‚ðs‚¤•K—v‚ª‚È‚­AŠJ”­ŽÒ‚Í–{—ˆ‚â‚é‚×‚«•”•ª‚ÌŠJ”­‚ÉA
+]—ˆ‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Ì‚æ‚¤‚ÉÝ’è‚ð‘å—Ê‚É‹Lq‚¹‚¸A‹K–ñ‚É‚Ì‚Á‚Æ‚Á‚ÄƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ðs‚¤B  
+‚»‚¤‚·‚éŽ–‚ÅA—]Œv‚ÈƒvƒƒOƒ‰ƒ~ƒ“ƒO‚âÝ’è‚ðÈ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
+‹K–ñ‚É‚Ì‚Á‚Æ‚é‚±‚Æ‚ÅAƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO“™‚ðRails‚Å‚ÍŽ©“®“I‚És‚¢‚Ü‚·B  
+‚»‚Ìˆ×AŠJ”­ŽÒ‚ÍƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚ðŠÖ˜A•t‚¯‚éÝ’è‚ðs‚¤•K—v‚ª‚È‚­AŠJ”­ŽÒ‚Í–{—ˆ‚â‚é‚×‚«•”•ª‚ÌŠJ”­‚ÉA  
 ’—Í‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
