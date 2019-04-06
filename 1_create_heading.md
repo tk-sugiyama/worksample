@@ -5,11 +5,11 @@ DIVE INTO CODE worksample
 
 
 <<<<<<< HEAD
-#初めに
+# 初めに
 
-##Railsとは
+## Railsとは
 
-##Railsの考え方
+## Railsの考え方
  
 ### DRY（Don’t Repeat Yourself：同じことは繰り返さない）
  　
