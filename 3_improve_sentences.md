@@ -33,3 +33,4 @@ DIVE INTO CODE worksample
 
 	#クラスメソッドの呼び出し
 	Dive.code
+	
