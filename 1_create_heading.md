@@ -4,13 +4,13 @@ DIVE INTO CODE worksample
 
 
 
-1. 初めに
+#初めに
 
-　2. Railsとは
+##Railsとは
 
-　2. Railsの考え方
+##Railsの考え方
  
-　　3. DRY（Don’t Repeat Yourself：同じことは繰り返さない）
+### DRY（Don’t Repeat Yourself：同じことは繰り返さない）
  　
 
-　　3. REST（Representational State Transfer：インターネット上でいろいろな情報や機能を結びつける方法、あるいは考え方）
+### REST（Representational State Transfer：インターネット上でいろいろな情報や機能を結びつける方法、あるいは考え方）
