@@ -6,11 +6,7 @@ DIVE INTO CODE worksample
 
 <<<<<<< HEAD
 # 初めに
-
 ## Railsとは
-
 ## Railsの考え方
- 
 ### DRY（Don’t Repeat Yourself：同じことは繰り返さない）
-
-### REST（Representational State Transfer：インターネット上でいろいろな情報や機能を結びつける方法、あるいは考え方）
+### CoC（Convention over Configuration：設定より規約）
