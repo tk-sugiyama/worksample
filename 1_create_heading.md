@@ -4,6 +4,7 @@ DIVE INTO CODE worksample
 
 
 
+<<<<<<< HEAD
 #‰‚ß‚É
 
 ##Rails‚Æ‚Í
