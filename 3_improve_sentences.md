@@ -1,5 +1,5 @@
 # worksample
-`self`には2つの利用方法があります。
+`self`には2つの利用方法があります。  
 [![Selfの使い方](https://github.com/tk-sugiyama/worksample/raw/master/img/Self.png)](https://github.com/tk-sugiyama/worksample/blob/master/img/Self.png)
 
 selfはインスタンスオブジェクト自身を指しています。クラスの中でインスタンスオブジェクトを呼び出す際やそのインスタンスオブジェクトを呼び出す際は、selfを使用します。
