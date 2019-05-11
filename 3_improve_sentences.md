@@ -1,12 +1,12 @@
 # worksample
-`self`には<u>**2つの利用方法**</u>があります。  
+`self`には<u>**2つの利用方法**</u>があります。
 [![Selfの使い方](https://github.com/tk-sugiyama/worksample/raw/master/img/Self.png)](https://github.com/tk-sugiyama/worksample/blob/master/img/Self.png)
 
 **インスタンスオブジェクト内**で利用される場合、<u>インスタンスオブジェクト自身を参照</u>します。
 
 **メソッド定義**で`Self.メソッド名`で利用する場合、<u>クラスメソッドを定義</u>します。　　
 
-記載例
+記載例 
 
 ```
 class Dive
