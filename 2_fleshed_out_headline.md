@@ -1,6 +1,4 @@
-# worksample
-DIVE INTO CODE worksample
-
+# DIVE INTO CODE worksample
 
 
 
@@ -20,10 +18,13 @@ Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚
 
 ## Rails‚ð—˜—p‚·‚éƒƒŠƒbƒg
 
-- [ ] Ruby‚Æ‚¢‚¤Œ¾ŒêŽ©‘Ì‚ª‘‚«‚â‚·‚¢ˆ×AƒvƒƒOƒ‰ƒ€‚Ìˆ—‚ðŠo‚¦‚é‚±‚Æ‚É“K‚µ‚Ä‚¢‚Ü‚·B
-- [ ] “ú–{Œê‚Å‚Ì‹LŽ–‚ª‘½‚­AŽå—v‚È‹@”\‚Í’²‚×‚È‚ª‚çA‚·‚®‚Éì¬‚Å‚«‚Ü‚·B
-- [ ] ­‚È‚¢ƒR[ƒh—Ê‚Å‘‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-- [ ] ƒ‹[ƒ‹‚ª×‚©‚­Œˆ‚Ü‚Á‚Ä‚¢‚éˆ×Aƒ‹[ƒ‹‚É‰ˆ‚Á‚Ä‘‚¢‚Ä‚¢‚­‚±‚Æ‚ÅŠÈ’P‚ÉƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ªì‚ê‚Ü‚·B
+- Ruby‚Æ‚¢‚¤Œ¾ŒêŽ©‘Ì‚ª‘‚«‚â‚·‚¢ˆ×AƒvƒƒOƒ‰ƒ€‚Ìˆ—‚ðŠo‚¦‚é‚±‚Æ‚É“K‚µ‚Ä‚¢‚Ü‚·B
+
+- “ú–{Œê‚Å‚Ì‹LŽ–‚ª‘½‚­AŽå—v‚È‹@”\‚Í’²‚×‚È‚ª‚çA‚·‚®‚Éì¬‚Å‚«‚Ü‚·B
+
+- ­‚È‚¢ƒR[ƒh—Ê‚Å‘‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+
+- ƒ‹[ƒ‹‚ª×‚©‚­Œˆ‚Ü‚Á‚Ä‚¢‚éˆ×Aƒ‹[ƒ‹‚É‰ˆ‚Á‚Ä‘‚¢‚Ä‚¢‚­‚±‚Æ‚ÅŠÈ’P‚ÉƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ªì‚ê‚Ü‚·B
 
 
 
@@ -31,29 +32,29 @@ Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚
 
 ‚¢‚­‚Â‚©‚ ‚éŠî–{—”O‚Ì‚¤‚¿AŠo‚¦‚Ä‚Ù‚µ‚¢2‚Â‚ÌŠî–{—”OB
 
-- [ ] ### DRYiDonft Repeat YourselfF“¯‚¶‚±‚Æ‚ÍŒJ‚è•Ô‚³‚È‚¢j
+### DRYiDonft Repeat YourselfF“¯‚¶‚±‚Æ‚ÍŒJ‚è•Ô‚³‚È‚¢j
 
-  —lX‚ÈŒÂŠ‚É•¡”‹Lq‚¹‚¸A1‚©Š‚É‹Lq‚·‚é‚±‚Æ‚ÅA•ÏX‚ª¶‚¶‚½Û‚Ì•ÛŽç«‚ð‚³‚‚ß‚Ü‚·B
+—lX‚ÈŒÂŠ‚É•¡”‹Lq‚¹‚¸A1‚©Š‚É‹Lq‚·‚é‚±‚Æ‚ÅA•ÏX‚ª¶‚¶‚½Û‚Ì•ÛŽç«‚ð‚³‚‚ß‚Ü‚·B
 
-- [ ] ### CoCiConvention over ConfigurationFÝ’è‚æ‚è‹K–ñj
-  ]—ˆ‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Ì‚æ‚¤‚ÉÝ’è‚ð‘å—Ê‚É‹Lq‚¹‚¸A‹K–ñ‚É‚Ì‚Á‚Æ‚Á‚ÄƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ðs‚¤B  
-  ‚»‚¤‚·‚éŽ–‚ÅA—]Œv‚ÈƒvƒƒOƒ‰ƒ~ƒ“ƒO‚âÝ’è‚ðÈ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
-  ‹K–ñ‚É‚Ì‚Á‚Æ‚é‚±‚Æ‚ÅAƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO“™‚ðRails‚Å‚ÍŽ©“®“I‚És‚¢‚Ü‚·B  
-  ‚»‚Ìˆ×AŠJ”­ŽÒ‚ÍƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚ðŠÖ˜A•t‚¯‚éÝ’è‚ðs‚¤•K—v‚ª‚È‚­AŠJ”­ŽÒ‚Í–{—ˆ‚â‚é‚×‚«•”•ª‚ÌŠJ”­‚ÉA  
-  ’—Í‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+### CoCiConvention over ConfigurationFÝ’è‚æ‚è‹K–ñj
+]—ˆ‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Ì‚æ‚¤‚ÉÝ’è‚ð‘å—Ê‚É‹Lq‚¹‚¸A‹K–ñ‚É‚Ì‚Á‚Æ‚Á‚ÄƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ðs‚¤B  
+‚»‚¤‚·‚éŽ–‚ÅA—]Œv‚ÈƒvƒƒOƒ‰ƒ~ƒ“ƒO‚âÝ’è‚ðÈ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
+‹K–ñ‚É‚Ì‚Á‚Æ‚é‚±‚Æ‚ÅAƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO“™‚ðRails‚Å‚ÍŽ©“®“I‚És‚¢‚Ü‚·B  
+‚»‚Ìˆ×AŠJ”­ŽÒ‚ÍƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚ðŠÖ˜A•t‚¯‚éÝ’è‚ðs‚¤•K—v‚ª‚È‚­AŠJ”­ŽÒ‚Í–{—ˆ‚â‚é‚×‚«•”•ª‚Ì
+ŠJ”­‚ÉA’—Í‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
 
-  
+
 
 ## Rails‚Å—˜—p‚·‚éMVC
 
 Rails‚Å‚ÍPC‚É‰æ–Ê‚ð•\Ž¦‚·‚éˆ×‚ÉAƒ‚ƒfƒ‹/ƒrƒ…[/ƒRƒ“ƒgƒ[ƒ‰‚ÆŒÄ‚Î‚ê‚é‚à‚Ì‚ªo‚Ä‚«‚Ü‚·B
 ƒ‚ƒfƒ‹/ƒrƒ…[/ƒRƒ“ƒgƒ[ƒ‰‚Í“ª•¶Žš‚ðŽæ‚Á‚ÄMVC‚ÆŒÄ‚Î‚ê‚Ü‚·B
 
-- [ ] ƒ‚ƒfƒ‹iModeljFƒf[ƒ^‚ðˆµ‚¤•”•ª
-- [ ] ƒrƒ…[iViewjFƒ†[ƒU[‚ÉŒ©‚¦‚éŒ‹‰Ê‚ðì‚é•”•ª
-- [ ] ƒRƒ“ƒgƒ[ƒ‰iControllerjFƒ†[ƒU[‚©‚ç‚ÌƒŠƒNƒGƒXƒg‚ðˆ—‚µAƒ‚ƒfƒ‹‚âƒrƒ…[‚Æ˜AŒg‚ðs‚È‚¤•”•ª
+- ƒ‚ƒfƒ‹iModeljFƒf[ƒ^‚ðˆµ‚¤•”•ª
+- ƒrƒ…[iViewjFƒ†[ƒU[‚ÉŒ©‚¦‚éŒ‹‰Ê‚ðì‚é•”•ª
+- ƒRƒ“ƒgƒ[ƒ‰iControllerjFƒ†[ƒU[‚©‚ç‚ÌƒŠƒNƒGƒXƒg‚ðˆ—‚µAƒ‚ƒfƒ‹‚âƒrƒ…[‚Æ˜AŒg‚ðs‚È‚¤•”•ª
 
-![](C:\Users\‹M—m\Desktop\worksample\img\MVC.png)
+![MVCŠT—v](.\img\MVC.png)
 
 
 
@@ -62,15 +63,15 @@ Rails‚Å‚ÍPC‚É‰æ–Ê‚ð•\Ž¦‚·‚éˆ×‚ÉAƒ‚ƒfƒ‹/ƒrƒ…[/ƒRƒ“ƒgƒ[ƒ‰‚ÆŒÄ‚Î‚ê‚é‚à‚Ì‚ªo‚Ä‚
 1. —˜—pŽÒ‚ªƒuƒ‰ƒEƒUŒo—R‚Å‘—M‚µ‚½ƒŠƒNƒGƒXƒg‚ðWebƒT[ƒo‚©‚çURL‚Æ‚µ‚ÄŽó‚¯Žæ‚è‚Ü‚·B
 
 2. ƒtƒŒ[ƒ€ƒ[ƒN“à‚Ìuroutes.rbvƒtƒ@ƒCƒ‹‚Å‚Ç‚ÌƒRƒ“ƒgƒ[ƒ‰‚Ì‚Ç‚ÌƒAƒNƒVƒ‡ƒ“‚ðŒÄ‚Ño‚¹‚Î‚¢‚¢‚Ì‚ª—ñ‹“‚µ‚Ü‚·B
-   ![](C:\Users\‹M—m\Desktop\worksample\img\routes.png)
+   ![routes.rbƒCƒ[ƒW](.\img\routes.png)
 
 3. —˜—pŽÒ‚©‚ç‚ÌƒŠƒNƒGƒXƒg‚ÅŒÄ‚Ño‚³‚ê‚½ƒAƒNƒVƒ‡ƒ“‚ÍAƒ‚ƒfƒ‹‚ð‰î‚µ‚Äƒf[ƒ^ƒx[ƒX‚Æ‚Ì‚â‚èŽæ‚è‚ðs‚¢Aƒf[ƒ^‚ðŽæ“¾‚µ‚½‚èV‚µ‚¢ƒf[ƒ^‚ðŠi”[‚µ‚½‚è‚µ‚Ü‚·B
-   ![](C:\Users\‹M—m\Desktop\worksample\img\Model.png)
+   ![ƒRƒ“ƒgƒ[ƒ‰‚ÆDB‚Ì˜AŒgƒCƒ[ƒW](.\img\Model.png)
 
 4. Žæ“¾‚µ‚½ƒf[ƒ^‚ðƒrƒ…[‚ÉƒZƒbƒg‚µAHTML•¶‘‚ðì¬‚µƒRƒ“ƒgƒ[ƒ‰‚Ö•Ô‚µ‚Ü‚·B
-   ![](C:\Users\‹M—m\Desktop\worksample\img\View.png)
+   ![‚±‚Ìƒgƒ[ƒ‰‚Æƒrƒ…[‚Ì˜AŒgƒCƒ[ƒW](.\img\View.png)
 
 5. ƒRƒ“ƒgƒ[ƒ‰‚ªì¬‚³‚ê‚½HTMLƒf[ƒ^‚ð—˜—pŽÒ‚Ö•Ô‚µ‚Ü‚·B
-   ![](C:\Users\‹M—m\Desktop\worksample\img\Return.png)
+   ![ƒy[ƒW•\Ž¦ƒCƒ[ƒW](.\img\Return.png)
 
    
