@@ -1,10 +1,8 @@
-# worksample
-DIVE INTO CODE worksample
+# DIVE INTO CODE worksample
 
 
 
 
-<<<<<<< HEAD
 # ‰‚ß‚É
 ## Rails‚Æ‚Í
 ## Rails‚Ìl‚¦•û
