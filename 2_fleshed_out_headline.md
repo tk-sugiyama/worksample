@@ -9,22 +9,16 @@
 
 ## Rails‚Æ‚Í
 
-Ruby on RailsiRORj‚Æ‚à‚¢‚í‚ê‚éAWebƒAƒvƒŠ‚ðŠÈ’P‚Éì‚éˆ×‚Ì•Ö—˜‚Ètool‚ðW‚ß‚½ƒtƒŒ[ƒ€ƒ[ƒN‚Å‚·B  
-Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚·B  
-ŒöŽ®‚Èƒ[ƒNƒtƒŒ[ƒ€ƒpƒbƒP[ƒW‚ÍRuby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌRubyGems‚É‚æ‚è”z•z‚³‚ê‚Ä‚¢‚Ü‚·B  
+Ruby on RailsiRORj‚Æ‚à‚¢‚í‚ê‚éAWebƒAƒvƒŠ‚ðŠÈ’P‚Éì‚éˆ×‚Ì•Ö—˜‚Ètool‚ðW‚ß‚½ƒtƒŒ[ƒ€ƒ[ƒN‚Å‚·B  Ruby on Rails‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢ì¬‚ðs‚¢‚Ü‚·B
+ˆÈ‰ºƒTƒCƒg‚ªRails‚ð—˜—p‚µ‚Äì¬‚³‚ê‚Ä‚¢‚éƒz[ƒ€ƒy[ƒW‚Å‚·B 
+- [Cookpad](https://cookpad.com/)
+- [CrowdWorks]( https://crowdworks.jp/)
+- [Hulu](https://www.happyon.jp/)
+- [H‚×ƒƒO](https://tabelog.com/)
+
+‚È‚¨AŒöŽ®‚Èƒ[ƒNƒtƒŒ[ƒ€ƒpƒbƒP[ƒW‚ÍRuby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌRubyGems‚É‚æ‚è
+”z•z‚³‚ê‚Ä‚¢‚Ü‚·B
 @RubyGemsFhttps://github.com/rubygems/rubygems
-
-
-
-## Rails‚ð—˜—p‚·‚éƒƒŠƒbƒg
-
-- Ruby‚Æ‚¢‚¤Œ¾ŒêŽ©‘Ì‚ª‘‚«‚â‚·‚¢ˆ×AƒvƒƒOƒ‰ƒ€‚Ìˆ—‚ðŠo‚¦‚é‚±‚Æ‚É“K‚µ‚Ä‚¢‚Ü‚·B
-
-- “ú–{Œê‚Å‚Ì‹LŽ–‚ª‘½‚­AŽå—v‚È‹@”\‚Í’²‚×‚È‚ª‚çA‚·‚®‚Éì¬‚Å‚«‚Ü‚·B
-
-- ­‚È‚¢ƒR[ƒh—Ê‚Å‘‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-
-- ƒ‹[ƒ‹‚ª×‚©‚­Œˆ‚Ü‚Á‚Ä‚¢‚éˆ×Aƒ‹[ƒ‹‚É‰ˆ‚Á‚Ä‘‚¢‚Ä‚¢‚­‚±‚Æ‚ÅŠÈ’P‚ÉƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ªì‚ê‚Ü‚·B
 
 
 
@@ -34,14 +28,23 @@ Ruby on RailsiRORj‚Ì‹LÚ‚©‚ç‚à˜A‘z‚³‚ê‚é’Ê‚èARuby‚ÆRails‚Ì—¼•û‚Ì’mŽ¯‚ðŽg‚¢‚Ü‚
 
 ### DRYiDonft Repeat YourselfF“¯‚¶‚±‚Æ‚ÍŒJ‚è•Ô‚³‚È‚¢j
 
-—lX‚ÈŒÂŠ‚É•¡”‹Lq‚¹‚¸A1‚©Š‚É‹Lq‚·‚é‚±‚Æ‚ÅA•ÏX‚ª¶‚¶‚½Û‚Ì•ÛŽç«‚ð‚³‚‚ß‚Ü‚·B
+@—lX‚ÈŒÂŠ‚É•¡”‹Lq‚¹‚¸A1‚©Š‚É‹Lq‚·‚é‚±‚Æ‚ÅA•ÏX‚ª¶‚¶‚½Û‚Ì•ÛŽç«‚ð‚³‚‚ß‚Ü‚·B
 
 ### CoCiConvention over ConfigurationFÝ’è‚æ‚è‹K–ñj
-]—ˆ‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Ì‚æ‚¤‚ÉÝ’è‚ð‘å—Ê‚É‹Lq‚¹‚¸A‹K–ñ‚É‚Ì‚Á‚Æ‚Á‚ÄƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ðs‚¤B  
-‚»‚¤‚·‚éŽ–‚ÅA—]Œv‚ÈƒvƒƒOƒ‰ƒ~ƒ“ƒO‚âÝ’è‚ðÈ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B  
-‹K–ñ‚É‚Ì‚Á‚Æ‚é‚±‚Æ‚ÅAƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO“™‚ðRails‚Å‚ÍŽ©“®“I‚És‚¢‚Ü‚·B  
-‚»‚Ìˆ×AŠJ”­ŽÒ‚ÍƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚ðŠÖ˜A•t‚¯‚éÝ’è‚ðs‚¤•K—v‚ª‚È‚­AŠJ”­ŽÒ‚Í–{—ˆ‚â‚é‚×‚«•”•ª‚Ì
-ŠJ”­‚ÉA’—Í‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+@]—ˆ‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Ì‚æ‚¤‚ÉÝ’è‚ð‘å—Ê‚É‹Lq‚¹‚¸A‹K–ñ‚É‚Ì‚Á‚Æ‚Á‚ÄƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ðs‚¤B
+@‚»‚¤‚·‚éŽ–‚ÅA—]Œv‚ÈƒvƒƒOƒ‰ƒ~ƒ“ƒO‚âÝ’è‚ðÈ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B   
+@‹K–ñ‚É‚Ì‚Á‚Æ‚é‚±‚Æ‚ÅAƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚Ìƒ}ƒbƒsƒ“ƒO“™‚ðRails‚Å‚ÍŽ©“®“I‚És‚¢‚Ü‚·B   
+@‚»‚Ìˆ×AŠJ”­ŽÒ‚ÍƒNƒ‰ƒX‚Æƒe[ƒuƒ‹‚ðŠÖ˜A•t‚¯‚éÝ’è‚ðs‚¤•K—v‚ª‚È‚­AŠJ”­ŽÒ‚Í–{—ˆ‚â‚é‚×‚«•”•ª‚Ì  
+@ŠJ”­‚ÉA’—Í‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+
+
+
+## Rails‚ð—˜—p‚·‚éƒƒŠƒbƒg
+
+- Ruby‚Æ‚¢‚¤Œ¾ŒêŽ©‘Ì‚ª‘‚«‚â‚·‚¢ˆ×AƒvƒƒOƒ‰ƒ€‚Ìˆ—‚ðŠo‚¦‚é‚±‚Æ‚É“K‚µ‚Ä‚¢‚Ü‚·B
+- “ú–{Œê‚Å‚Ì‹LŽ–‚ª‘½‚­AŽå—v‚È‹@”\‚Í’²‚×‚È‚ª‚çA‚·‚®‚Éì¬‚Å‚«‚Ü‚·B
+- ƒ‹[ƒ‹‚ª×‚©‚­Œˆ‚Ü‚Á‚Ä‚¢‚éˆ×Aƒ‹[ƒ‹‚É‰ˆ‚Á‚Ä‘‚¢‚Ä‚¢‚­‚±‚Æ‚ÅŠÈ’P‚ÉƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ªì‚ê‚Ü‚·B
+- ƒ‹[ƒ‹‚ªŒˆ‚Ü‚Á‚Ä‚¢‚¢‚éˆ×A­‚È‚¢ƒR[ƒh—Ê‚Å‘‚­‚±‚Æ‚ª‚Å‚«Aì¬ŽžŠÔ‚ð’Zk‚Å‚«‚Ü‚·B
 
 
 
@@ -58,7 +61,7 @@ Rails‚Å‚ÍPC‚É‰æ–Ê‚ð•\Ž¦‚·‚éˆ×‚ÉAƒ‚ƒfƒ‹/ƒrƒ…[/ƒRƒ“ƒgƒ[ƒ‰‚ÆŒÄ‚Î‚ê‚é‚à‚Ì‚ªo‚Ä‚
 
 
 
-<u>•\Ž¦‚Ü‚Å‚Ìˆê˜A‚Ì—¬‚ê</u>
+<u>ƒŠƒNƒGƒXƒg‚©‚ç‰æ–Ê•\Ž¦‚Ü‚Å‚Ìˆê˜A‚Ì—¬‚ê</u>
 
 1. —˜—pŽÒ‚ªƒuƒ‰ƒEƒUŒo—R‚Å‘—M‚µ‚½ƒŠƒNƒGƒXƒg‚ðWebƒT[ƒo‚©‚çURL‚Æ‚µ‚ÄŽó‚¯Žæ‚è‚Ü‚·B
 
@@ -75,3 +78,8 @@ Rails‚Å‚ÍPC‚É‰æ–Ê‚ð•\Ž¦‚·‚éˆ×‚ÉAƒ‚ƒfƒ‹/ƒrƒ…[/ƒRƒ“ƒgƒ[ƒ‰‚ÆŒÄ‚Î‚ê‚é‚à‚Ì‚ªo‚Ä‚
    ![ƒy[ƒW•\Ž¦ƒCƒ[ƒW](.\img\Return.png)
 
    
+
+## ‚Ü‚Æ‚ß
+
+Rails‚ÌŠT—v‚ðã‹L‚Ì‚æ‚¤‚É‹LÚ‚¢‚½‚µ‚Ü‚µ‚½‚ªA‚Ü‚Æ‚ß‚é‚ÆA
+ƒtƒŒ[ƒ€ƒ[ƒN‚ð—˜—p‚·‚é‚±‚Æ‚ÅA***‘‚­***A***ŠÈ’P***‚ÉA***ãŽ¿***‚ÈWebŠJ”­‚ª‰Â”\‚Æ‚È‚è‚Ü‚·B
