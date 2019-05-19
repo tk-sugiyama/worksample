@@ -2,84 +2,84 @@
 
 
 
-# ���߂�
-�{�e�L�X�g�͂��ꂩ��w�ԁARails�̊T�v���C���[�W������̂ł��B
+# 初めに
+本テキストはこれから学ぶ、Railsの概要をイメージするものです。
 
 
 
-## Rails�Ƃ�
+## Railsとは
 
-Ruby on Rails�iROR�j�Ƃ�������AWeb�A�v�����ȒP�ɍ��ׂ֗̕���tool���W�߂��t���[�����[�N�ł��B  Ruby on Rails�̋L�ڂ�����A�z�����ʂ�ARuby��Rails�̗����̒m�����g���쐬���s���܂��B
-�ȉ��T�C�g��Rails�𗘗p���č쐬����Ă���z�[���y�[�W�ł��B 
+Ruby on Rails（ROR）ともいわれる、Webアプリを簡単に作る為の便利なtoolを集めたフレームワークです。  Ruby on Railsの記載からも連想される通り、RubyとRailsの両方の知識を使い作成を行います。
+以下サイトがRailsを利用して作成されているホームページです。 
 - [Cookpad](https://cookpad.com/)
 - [CrowdWorks]( https://crowdworks.jp/)
 - [Hulu](https://www.happyon.jp/)
-- [�H�׃��O](https://tabelog.com/)
+- [食べログ](https://tabelog.com/)
 
-�Ȃ��A�����ȃ��[�N�t���[���p�b�P�[�W��Ruby�̃��C�u������A�v���P�[�V������RubyGems�ɂ��
-�z�z����Ă��܂��B
-�@RubyGems�Fhttps://github.com/rubygems/rubygems
-
-
-
-## Rails�̍l����
-
-�����������{���O�̂����A�o���Ăق���2�̊�{���O�B
-
-### DRY�iDon�ft Repeat Yourself�F�������Ƃ͌J��Ԃ��Ȃ��j
-
-�@�l�X�Ȍ��ɕ����L�q�����A1�����ɋL�q���邱�ƂŁA�ύX���������ۂ̕ێ琫�������߂܂��B
-
-### CoC�iConvention over Configuration�F�ݒ���K��j
-�@�]���̃t���[�����[�N�̂悤�ɐݒ���ʂɋL�q�����A�K��ɂ̂��Ƃ��ăv���O���~���O���s���B
-�@�������鎖�ŁA�]�v�ȃv���O���~���O��ݒ���Ȃ����Ƃ��ł��܂��B   
-�@�K��ɂ̂��Ƃ邱�ƂŁA�N���X�ƃe�[�u���̃}�b�s���O����Rails�ł͎����I�ɍs���܂��B   
-�@���ׁ̈A�J���҂̓N���X�ƃe�[�u�����֘A�t����ݒ���s���K�v���Ȃ��A�J���҂͖{�����ׂ�������  
-�@�J���ɁA���͂��邱�Ƃ��ł��܂��B
+なお、公式なワークフレームパッケージはRubyのライブラリやアプリケーションのRubyGemsにより
+配布されています。
+　RubyGems：https://github.com/rubygems/rubygems
 
 
 
-## Rails�𗘗p���郁���b�g
+## Railsの考え方
 
-- Ruby�Ƃ������ꎩ�̂������₷���ׁA�v���O�����̏������o���邱�ƂɓK���Ă��܂��B
-- ���{��ł̋L���������A��v�ȋ@�\�͒��ׂȂ���A�����ɍ쐬�ł��܂��B
-- ���[�����ׂ������܂��Ă���ׁA���[���ɉ����ď����Ă������ƂŊȒP�ɃA�v���P�[�V���������܂��B
-- ���[�������܂��Ă�����ׁA���Ȃ��R�[�h�ʂŏ������Ƃ��ł��A�쐬���Ԃ�Z�k�ł��܂��B
+いくつかある基本理念のうち、覚えてほしい2つの基本理念。
 
+### DRY（Don’t Repeat Yourself：同じことは繰り返さない）
 
+　様々な個所に複数記述せず、1か所に記述することで、変更が生じた際の保守性をさ高めます。
 
-## Rails�ŗ��p����MVC
-
-Rails�ł�PC�ɉ�ʂ�\������ׂɁA���f��/�r���[/�R���g���[���ƌĂ΂����̂��o�Ă��܂��B
-���f��/�r���[/�R���g���[���͓������������MVC�ƌĂ΂�܂��B
-
-- ���f���iModel�j�F�f�[�^����������
-- �r���[�iView�j�F���[�U�[�Ɍ����錋�ʂ���镔��
-- �R���g���[���iController�j�F���[�U�[����̃��N�G�X�g���������A���f����r���[�ƘA�g���s�Ȃ�����
-
-![MVC�T�v](.\img\MVC.png)
+### CoC（Convention over Configuration：設定より規約）
+　従来のフレームワークのように設定を大量に記述せず、規約にのっとってプログラミングを行う。
+　そうする事で、余計なプログラミングや設定を省くことができます。   
+　規約にのっとることで、クラスとテーブルのマッピング等をRailsでは自動的に行います。   
+　その為、開発者はクラスとテーブルを関連付ける設定を行う必要がなく、開発者は本来やるべき部分の  
+　開発に、注力することができます。
 
 
 
-<u>���N�G�X�g�����ʕ\���܂ł̈�A�̗���</u>
+## Railsを利用するメリット
 
-1. ���p�҂��u���E�U�o�R�ő��M�������N�G�X�g��Web�T�[�o����URL�Ƃ��Ď󂯎��܂��B
+- Rubyという言語自体が書きやすい為、プログラムの処理を覚えることに適しています。
+- 日本語での記事が多く、主要な機能は調べながら、すぐに作成できます。
+- ルールが細かく決まっている為、ルールに沿って書いていくことで簡単にアプリケーションが作れます。
+- ルールが決まっていいる為、少ないコード量で書くことができ、作成時間を短縮できます。
 
-2. �t���[�����[�N���́uroutes.rb�v�t�@�C���łǂ̃R���g���[���̂ǂ̃A�N�V�������Ăяo���΂����̂��񋓂��܂��B
-   ![routes.rb�C���[�W](.\img\routes.png)
 
-3. ���p�҂���̃��N�G�X�g�ŌĂяo���ꂽ�A�N�V�����́A���f������ăf�[�^�x�[�X�Ƃ̂������s���A�f�[�^���擾������V�����f�[�^���i�[�����肵�܂��B
-   ![�R���g���[����DB�̘A�g�C���[�W](.\img\Model.png)
 
-4. �擾�����f�[�^���r���[�ɃZ�b�g���AHTML�������쐬���R���g���[���֕Ԃ��܂��B
-   ![���̃g���[���ƃr���[�̘A�g�C���[�W](.\img\View.png)
+## Railsで利用するMVC
 
-5. �R���g���[�����쐬���ꂽHTML�f�[�^�𗘗p�҂֕Ԃ��܂��B
-   ![�y�[�W�\���C���[�W](.\img\Return.png)
+RailsではPCに画面を表示する為に、モデル/ビュー/コントローラと呼ばれるものが出てきます。
+モデル/ビュー/コントローラは頭文字を取ってMVCと呼ばれます。
+
+- モデル（Model）：データを扱う部分
+- ビュー（View）：ユーザーに見える結果を作る部分
+- コントローラ（Controller）：ユーザーからのリクエストを処理し、モデルやビューと連携を行なう部分
+
+![MVC概要](https://github.com/tk-sugiyama/worksample/blob/master/img/MVC.png)
+
+
+
+<u>リクエストから画面表示までの一連の流れ</u>
+
+1. 利用者がブラウザ経由で送信したリクエストをWebサーバからURLとして受け取ります。
+
+2. フレームワーク内の「routes.rb」ファイルでどのコントローラのどのアクションを呼び出せばいいのが列挙します。
+   ![routes.rbイメージ](https://github.com/tk-sugiyama/worksample/blob/master/img/routes.png)
+
+3. 利用者からのリクエストで呼び出されたアクションは、モデルを介してデータベースとのやり取りを行い、データを取得したり新しいデータを格納したりします。
+   ![コントローラとDBの連携イメージ](https://github.com/tk-sugiyama/worksample/blob/master/img/Model.png)
+
+4. 取得したデータをビューにセットし、HTML文書を作成しコントローラへ返します。
+   ![このトローラとビューの連携イメージ](https://github.com/tk-sugiyama/worksample/blob/master/img/View.png)
+
+5. コントローラが作成されたHTMLデータを利用者へ返します。
+   ![ページ表示イメージ](https://github.com/tk-sugiyama/worksample/blob/master/img/Return.png)
 
    
 
-## �܂Ƃ�
+## まとめ
 
-Rails�̊T�v����L�̂悤�ɋL�ڂ������܂������A�܂Ƃ߂�ƁA
-�t���[�����[�N�𗘗p���邱�ƂŁA***����***�A***�ȒP***�ɁA***�㎿***��Web�J�����\�ƂȂ�܂��B
+Railsの概要を上記のように記載いたしましたが、まとめると、
+フレームワークを利用することで、***早く***、***簡単***に、***上質***なWeb開発が可能となります。
